@@ -1,5 +1,1 @@
-# Dhaki News Privacy Policy
-
-Ce repository contient la politique de confidentialité de Dhaki News.
-
-tiktokbJccOzacUuh3KWkFqPgs7WkhaZomR8Gn
+tiktok-developers-site-verification=YHD1m3gIFHyYrOZldXwyyP25EJ1rvRhw
