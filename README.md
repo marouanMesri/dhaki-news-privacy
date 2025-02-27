@@ -42,6 +42,12 @@ Pour toute question concernant cette politique :
 - Email : [votre-email]
 - GitHub : https://github.com/marouanMesri
 
+# Dhaki News Privacy Policy
+
+Ce repository contient la politique de confidentialité de Dhaki News.
+
+tiktokbJccOzacUuh3KWkFqPgs7WkhaZomR8Gn
+
 ## 7. Modifications
 
 Nous nous réservons le droit de modifier cette politique. Les modifications seront publiées sur cette page.
